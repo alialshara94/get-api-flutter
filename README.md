@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## News Api url
+https://newsapi.org/
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
